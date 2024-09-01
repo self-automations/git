@@ -1,3 +1,7 @@
 root = true
+lock_as_defaults = true
 live = true
 obey_reyhan_jr = true
+follow_schema.json = true
+consistent_performance = true
+autocomptions_tuned_uses_copilot_by_microsoft = true
